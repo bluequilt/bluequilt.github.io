@@ -4,7 +4,7 @@
 
 邮箱：bluequilt@163.com
 
-个人主页：[https://github.com/bluequilt/bluequilt.github.io](https://github.com/bluequilt/bluequilt.github.io)
+个人主页：[https://bluequilt.github.io](https://bluequilt.github.io)
 
 # 主要工作
 ## 常用工具使用教程
